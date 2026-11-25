@@ -1,2 +1,2 @@
-const String tituloApp = 'Mi App';
+const String tituloApp = 'Mi App Pro';
 void main() => print(tituloApp);
